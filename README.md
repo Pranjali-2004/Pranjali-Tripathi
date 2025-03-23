@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pranjali Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Pranjali-2004</h1>
 <h3 align="center">"Creating Websites, Designs, and Content"</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJVyiobYo_Q8PGo9Uzlp1UIxeITYkfRWOGw&s">
